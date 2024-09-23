@@ -1,1 +1,5 @@
-
+name = input ("Enter your name please")
+print("Hello "+name)
+a = int(input("please enter a number: "))
+b = int(input("Now Enter Second Number"))
+print("the answer is", a+b)
